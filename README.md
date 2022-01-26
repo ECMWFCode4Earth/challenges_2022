@@ -1,1 +1,1 @@
-# challenges_2022
+# ECMWF Summer of Weather Code 2022
