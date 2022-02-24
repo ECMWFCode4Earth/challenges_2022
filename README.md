@@ -1,9 +1,12 @@
 # ECMWF Summer of Weather Code 2022
 
-ECMWF Summer of Weather Code brings innovation and open-source developments to the Earth science community. It is a collaborative programme where each summer several developer teams team up with mentors from ECMWF to work on innovative weather-, climate- and atmosphere-related software developments and applications. ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
+**ECMWF Summer of Weather Code brings innovation and open-source developments to the Earth science community**. It is a collaborative programme where each summer several developer teams team up with mentors from ECMWF to work on innovative weather-, climate- and atmosphere-related software developments and applications.
 <br>
 
-<img src='./esowc_2022_banner.png' alt='ESoWC' align='center' width='80%'></img>
+ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
+<br>
+
+<img src='./esowc_2022_banner.png' alt='ESoWC' align='center' width='90%'></img>
 
 <br>
 
