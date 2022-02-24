@@ -20,9 +20,9 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 11<sup><strong>*</strong></sup> - Think small, move fast *(funded under Copernicus)*]()
-* [Challenge 12<sup><strong>*</strong></sup> - Predicting heat waves in computing applications - towards greener applications *(funded under Copernicus)*]()
-* [Challenge 13<sup><strong>*</strong></sup> - Atmospheric Datasets Comparison (ADC) Toolbox evolution *(fundend under Copernicus)*)]()
+* [Challenge 11<sup><strong>*</strong></sup> - Think small, move fast *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/1)
+* [Challenge 12<sup><strong>*</strong></sup> - Predicting heat waves in computing applications - towards greener applications *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/2)
+* [Challenge 13<sup><strong>*</strong></sup> - Atmospheric Datasets Comparison (ADC) Toolbox evolution *(funded under Copernicus)*)](https://github.com/esowc/challenges_2022/issues/3)
 
 <br>
 
@@ -32,11 +32,11 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 21 - A new map viewer for ECMWF's meteorological WMS Server]()
-* [Challenge 22 - Bring Magics weather maps to Matplotlib]()
-* [Challenge 23 - ECMWF user dashboard]()
-* [Challenge 24 - CliMetLab web application]()
-* [Challenge 25 - Integrated support documentation]()
+* [Challenge 21 - A new map viewer for ECMWF's meteorological WMS Server](https://github.com/esowc/challenges_2022/issues/4)
+* [Challenge 22 - Bring Magics weather maps to Matplotlib](https://github.com/esowc/challenges_2022/issues/5)
+* [Challenge 23 - ECMWF user dashboard](https://github.com/esowc/challenges_2022/issues/6)
+* [Challenge 24 - CliMetLab web application](https://github.com/esowc/challenges_2022/issues/7)
+* [Challenge 25 - Integrated support documentation](https://github.com/esowc/challenges_2022/issues/8)
 
 <br>
 
@@ -46,8 +46,8 @@ There are three challenge streams:
 
 <br>
 
-* [Challenge 31 - Flood forecasting: the power of citizen science]()
-* [Challenge 32 - Wildfire Emission Explorer]()
+* [Challenge 31 - Flood forecasting: the power of citizen science](https://github.com/esowc/challenges_2022/issues/9)
+* [Challenge 32<sup><strong>*</strong></sup> - Wildfire Emission Explorer *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/10)
 
 <br>
 
