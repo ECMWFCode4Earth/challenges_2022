@@ -14,7 +14,7 @@ ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (E
 
 There are three challenge streams:
 
-<img src='./stream1.png' alt='ESoWC Stream 1' align='left' width='5%'></img>
+<img src='./stream1.png' alt='ESoWC Stream 1' align='left' width='6%'></img>
 
 ### Stream 1 - Software development for weather, climate and atmosphere
 
@@ -40,7 +40,7 @@ There are three challenge streams:
 
 <br>
 
-<img src='./stream3.png' alt='ESoWC Stream 3' align='left' width='5%'></img>
+<img src='./stream3.png' alt='ESoWC Stream 3' align='left' width='7%'></img>
 
 ### Stream 3 - Applied data science for weather, climate and atmosphere
 
