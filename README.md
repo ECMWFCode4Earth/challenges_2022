@@ -6,7 +6,7 @@
 ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
 <br>
 
-<img src='./esowc_2022_banner.png' alt='ESoWC' align='center' width='90%'></img>
+<img src='./esowc_2022_banner.png' alt='ESoWC' align='center' width='100%'></img>
 
 <br>
 
