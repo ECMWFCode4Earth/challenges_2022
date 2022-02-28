@@ -48,6 +48,7 @@ There are three challenge streams:
 
 * [Challenge 31 - Flood forecasting: the power of citizen science](https://github.com/esowc/challenges_2022/issues/9)
 * [Challenge 32<sup><strong>*</strong></sup> - Wildfire Emission Explorer *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/10)
+* [Challenge 33<sup><strong>*</strong></sup> - Adjusting Climate Projections *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/11)
 
 <br>
 
