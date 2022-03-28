@@ -85,6 +85,7 @@ The ESoWC day is a celebratory closure of the programme. Each ESoWC team will be
 <br>
 
 ## Important links
+* [ESoWC Application Form](https://esowc.commpla.com/esowc-2022-application-form) 
 * [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
 * [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
 * Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
