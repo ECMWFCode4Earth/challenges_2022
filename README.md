@@ -6,19 +6,20 @@
 ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
 <br>
 
-## Upcoming: ESoWC Ask Me Anything sessions
-
-Join one of two live webinars and hear from past ESoWC participants and mentors about their experiences and get answers to all your questions about ECMWF Summer of Weather Code 2022.
-* **Session I - 23 March 2022 | 15:00 GMT**
-* **Session II - 30 March 2022 | 15:00 GMT**
-
-**[>> Register NOW](https://esowc.ecmwf.int/ama-2022)**
+<img src='./2022_esowc_banner.jpeg' alt='ESoWC' align='center' width='80%'></img>
 
 <br>
 
-<img src='./2022_esowc_ama.jpeg' alt='ESoWC' align='center' width='80%'></img>
+## Watch the recording of the ESoWC Ask Me Anything sessions
+
+We run two live webinars and invited previous ESoWC participants and mentors to share their ESoWC experience.
+* **[Session I - 23 March 2022 | 15:00 GMT](https://www.youtube.com/watch?v=ot8IerPLNOo)**
+* **[Session II - 30 March 2022 | 15:00 GMT](https://www.youtube.com/watch?v=wmL_Q0xxQ_A)**
+
 
 <br>
+
+
 
 ## ESoWC 2022 Challenges
 
