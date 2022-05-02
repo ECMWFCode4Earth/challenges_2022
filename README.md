@@ -10,69 +10,38 @@ ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (E
 
 <br>
 
-## Watch the recording of the ESoWC Ask Me Anything sessions
+## ESoWC 2022 Projects
+Congratulations to the eight teams that have been selected to be part of ECMWF Summer of Weather Code 2022:
 
-We run two live webinars and invited previous ESoWC participants and mentors to share their ESoWC experience.
-* **[Session I - 23 March 2022 | 15:00 GMT](https://www.youtube.com/watch?v=ot8IerPLNOo)**
-* **[Session II - 30 March 2022 | 15:00 GMT](https://www.youtube.com/watch?v=wmL_Q0xxQ_A)**
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| [**Flood forecasting: the power of citizen science (Team A)**]()| [Emiliana Myftari]() <br> [Beatrice Rinaldi]() <br> [Enxhi Sulkja]() | [Marie-Ameilie Boucher]() <br> [Cinzia Mazzetti]() <br> [Florian Pappenberger]() <br> [Jan Seibert]() <br> [Juan Colonese]() |
+| [**Flood forecasting: the power of citizen science (Team B)**]()| [Mohit Anand]() | [Marie-Ameilie Boucher]() <br> [Cinzia Mazzetti]() <br> [Florian Pappenberger]() <br> [Jan Seibert]() <br> [Juan Colonese]() |
+| [**Adjusting Climate Projections**]()| [Jakob Wessel]() <br> [Fiona Spuler]() | [Edward Comyn-Platt]() <br> [Chiara Cagnazzo]() <br> [James Varndell]() |
+| [**CliMetLab web application**]() |[Akshaj Verma]()<br> |[Baudouin Raoult](https://github.com/b8raoult) <br> [Florian Pinault](https://github.com/floriankrb) |
+| [**Wildfire Emission Explorer**]() |[Giovanni Paolini]()<br> [Ainhoa Murillo Iraola]() | [Mark Parrington]() <br> [Sebastien Garrigues]() <br> [James Varndell]() <br> [Miha Razinger](https://github.com/miha-at-ecmwf) |
+| [**ECMWF user dashboard**]() | [Adarsh Pandey]() | [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br> [Eduard Rosert]() |
+| [**Atmospheric Datasets Comparison (ADC) Toolbox evolution**](https://github.com/esowc/adc-toolbox) | [Alba Vilanova Cortezon](https://github.com/albavilanova) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Antje Inness]() <br> [Federico Fierli]() |
+| [**Bringing Magics Weather maps to Matplotlib**]() | [Alish Dipani]() | [James Varndell]() <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br >[Stephan Siemen](https://github.com/stephansiemen) <br> [Baudouin Raoult](https://github.com/b8raoult) |
 
+<br>
+<br>
+
+Generous cloud computing ressources are provided by: 
+|the Copernicus DIAS service [WEkEO](https://www.wekeo.eu/) |[European Weather Cloud](https://www.europeanweather.cloud/)|
+|----------------|:--------------------:|
+|<span style=float:left><img src='./wekeo.jpeg' alt='WEkEO logo' align='left' width='120'></img>|<img src='./ewc_logo.png' alt='EWS logo' align='center' ></img>|
 
 <br>
 
 
-
-## ESoWC 2022 Challenges
-
-There are three challenge streams:
-
-<img src='./stream1.png' alt='ESoWC Stream 1' align='left' width='6%'></img>
-
-### Stream 1 - Software development for weather, climate and atmosphere
-
 <br>
 
-* [Challenge 11<sup><strong>*</strong></sup> - Think small, move fast *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/1)
-* [Challenge 12<sup><strong>*</strong></sup> - Predicting heat waves in computing applications - towards greener applications *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/2)
-* [Challenge 13<sup><strong>*</strong></sup> - Atmospheric Datasets Comparison (ADC) Toolbox evolution *(funded under Copernicus)*)](https://github.com/esowc/challenges_2022/issues/3)
-
-<br>
-
-<img src='./stream2.png' alt='ESoWC Stream 2' align='left' width='6%'></img> 
-
-### Stream 2 - Web development for weather, climate and atmosphere
-
-<br>
-
-* [Challenge 21 - A new map viewer for ECMWF's meteorological WMS Server](https://github.com/esowc/challenges_2022/issues/4)
-* [Challenge 22 - Bring Magics weather maps to Matplotlib](https://github.com/esowc/challenges_2022/issues/5)
-* [Challenge 23 - ECMWF user dashboard](https://github.com/esowc/challenges_2022/issues/6)
-* [Challenge 24 - CliMetLab web application](https://github.com/esowc/challenges_2022/issues/7)
-* [Challenge 25 - Integrated support documentation](https://github.com/esowc/challenges_2022/issues/8)
-
-<br>
-
-<img src='./stream3.png' alt='ESoWC Stream 3' align='left' width='7%'></img>
-
-### Stream 3 - Applied data science for weather, climate and atmosphere
-
-<br>
-
-* [Challenge 31 - Flood forecasting: the power of citizen science](https://github.com/esowc/challenges_2022/issues/9)
-* [Challenge 32<sup><strong>*</strong></sup> - Wildfire Emission Explorer *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/10)
-* [Challenge 33<sup><strong>*</strong></sup> - Adjusting Climate Projections *(funded under Copernicus)*](https://github.com/esowc/challenges_2022/issues/11)
-
-<br>
-
-<i><strong><sup>*</sup></strong> Challenge is funded under Copernicus. Only nationals from European Union (EU) Member States and countries associated with EU’s Space Programme (currently Iceland and Norway) are eligible to participate (see [Terms and Conditions](https://esowc.ecmwf.int/terms-and-conditions)).</i>
-
-*Note: Successful projects will be eligible for a stipend of £ 5000 and if applicable, cloud credits from the [European Weather Cloud](https://www.europeanweather.cloud/) or [WEkEO](https://wekeo.eu/)*
-
-<br>
 
 ## How it works
 
 ### 1. Application period: 1 Mar - 15 Apr 2022
-Browse through the [ESoWC 2022 challenges](https://github.com/esowc/challenges_2022/issues), ask questions and together with the mentors, tailor your proposal. Apply before 15 April 2022.
+Browse through the [ESoWC 2022 challenges](https://github.com/esowc/challenges_2022/issues), ask questions and together with the mentors, tailor your proposal. Applications closed on 15 April 2022.
 
 ### 2. Announcement of selected proposals: 29 Apr 2022
 The selected ESoWC 2022 project teams will be announced on 29 Apr 2022.
@@ -86,7 +55,6 @@ The ESoWC day is a celebratory closure of the programme. Each ESoWC team will be
 <br>
 
 ## Important links
-* [ESoWC Application Form](https://esowc.commpla.com/esowc-2022-application-form) 
 * [ESoWC Frequently Asked Questions](http://esowc.ecmwf.int/FAQ)
 * [ESoWC Terms & Conditions](http://esowc.ecmwf.int/terms-and-conditions)
 * Follow ESoWC on [Twitter](https://twitter.com/esowc_ecmwf), [LinkedIn](https://www.linkedin.com/showcase/ecmwf-summer-of-weather-code/) and [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow)
