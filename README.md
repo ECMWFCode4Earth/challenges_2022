@@ -44,10 +44,10 @@ Generous cloud computing ressources are provided by:
 Browse through the [ESoWC 2022 challenges](https://github.com/esowc/challenges_2022/issues), ask questions and together with the mentors, tailor your proposal. Applications closed on 15 April 2022.
 
 ### 2. Announcement of selected proposals: 29 Apr 2022
-The selected ESoWC 2022 project teams will be announced on 29 Apr 2022.
+The selected ESoWC 2022 project teams were announced on 29 Apr 2022.
 
 ### 3. Coding period: 2 May  - 31 Aug 2022
-The 4-month long coding period starts 2 May 2022 and lasts until 31 August 2022. During this time, the selected teams team up with experienced ECMWF mentors and experts in weather, climate and atmosphere. <br> Follow the progress of the projects here on Github.
+The 4-month long coding period started 2 May 2022 and lasts until 31 August 2022. During this time, the selected teams team up with experienced ECMWF mentors and experts in weather, climate and atmosphere. <br> Follow the progress of the projects here on Github.
 
 ### 4. Final ESoWC day: 28 September 2022
 The ESoWC day is a celebratory closure of the programme. Each ESoWC team will be be invited to present their project results.
