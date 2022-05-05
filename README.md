@@ -21,7 +21,6 @@ Congratulations to the eight teams that have been selected to be part of ECMWF S
 | [**CliMetLab web application**]() |[Akshaj Verma]()<br> |[Baudouin Raoult](https://github.com/b8raoult) <br> [Florian Pinault](https://github.com/floriankrb) |
 | [**Wildfire Emission Explorer**]() |[Giovanni Paolini]()<br> [Ainhoa Murillo Iraola]() | [Mark Parrington]() <br> [Sebastien Garrigues]() <br> [James Varndell]() <br> [Miha Razinger](https://github.com/miha-at-ecmwf) |
 | [**ECMWF user dashboard**]() | [Adarsh Pandey]() | [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br> [Eduard Rosert]() |
-| [**Atmospheric Datasets Comparison (ADC) Toolbox evolution**](https://github.com/esowc/adc-toolbox) | [Alba Vilanova Cortezon](https://github.com/albavilanova) | [Miha Razinger](https://github.com/miha-at-ecmwf) <br> [Antje Inness]() <br> [Federico Fierli]() |
 | [**Bringing Magics Weather maps to Matplotlib**]() | [Alish Dipani]() | [James Varndell]() <br> [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br >[Stephan Siemen](https://github.com/stephansiemen) <br> [Baudouin Raoult](https://github.com/b8raoult) |
 
 <br>
