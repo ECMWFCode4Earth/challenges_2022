@@ -15,8 +15,8 @@ Congratulations to the eight teams that have been selected to be part of ECMWF S
 
 | Project title | Team | Mentors |
 | ---------- | --------------- | -------------- |
-| [**Flood forecasting: the power of citizen science**](https://github.com/esowc/CW4Floods)| [Emiliana Myftari]() <br> [Beatrice Rinaldi]() <br> [Enxhi Sulkja]() <br> [Mohit Anand](https://github.com/melioristic) | [Marie-Ameilie Boucher](https://github.com/https://github.com/QueenMABhydro) <br> [Cinzia Mazzetti](https://github.com/https://github.com/https://github.com/ecCinziaMazzetti) <br> Florian Pappenberger <br> Jan Seibert <br> [Juan Colonese](colonesej) |
-| [**Adjusting Climate Projections**]()| [Jakob Wessel]() <br> [Fiona Spuler]() | [Edward Comyn-Platt](https://github.com/https://github.com/https://github.com/https://github.com/EddyCMWF) <br> Chiara Cagnazzo <br> James Varndell |
+| [**Flood forecasting: the power of citizen science**](https://github.com/esowc/CW4Floods)| [Emiliana Myftari]() <br> [Beatrice Rinaldi]() <br> [Enxhi Sulkja]() <br> [Mohit Anand](https://github.com/melioristic) | [Marie-Ameilie Boucher](https://github.com/QueenMABhydro) <br> [Cinzia Mazzetti](https://github.com/ecCinziaMazzetti) <br> Florian Pappenberger <br> Jan Seibert <br> [Juan Colonese](colonesej) |
+| [**Adjusting Climate Projections**]()| [Jakob Wessel]() <br> [Fiona Spuler]() | [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> Chiara Cagnazzo <br> James Varndell |
 | [**CliMetLab web application**]() |[Akshaj Verma]()<br> |[Baudouin Raoult](https://github.com/b8raoult) <br> [Florian Pinault](https://github.com/floriankrb) |
 | [**Wildfire Emission Explorer**]() |[Giovanni Paolini]()<br> [Ainhoa Murillo Iraola]() | [Mark Parrington](https://github.com/mparrington) <br> Sebastien Garrigues <br> James Varndell <br> [Miha Razinger](https://github.com/miha-at-ecmwf) |
 | [**ECMWF user dashboard**]() | [Adarsh Pandey]() | [Sylvie Lamy-Thepaut](https://github.com/sylvielamythepaut) <br> [Eduard Rosert](https://github.com/EduardRosert) |
