@@ -9,10 +9,10 @@ ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (E
 ## Register and join the livestream of the Final ESoWC Day
 
 * When: Wednesday, 28 September 2022 | 9:30-12:00 CEST & 13:30-15:45 CEST
-* [>> Register]([https://esowc.ecmwf.int/esowc-2022-mid-term-webinar](https://esowc.ecmwf.int/final-esowc-day-2022))
+* [>> Register]([https://esowc.ecmwf.int/esowc-2022-mid-term-webinar](https://esowc.ecmwf.int/final-esowc-day-2022)
 <br>
 
-<img src='./banner_midterm_webinar.jpg' alt='ESoWC' align='center' width='80%'></img>
+<img src='./202209_final_esowc_day_banner.jpg' alt='ESoWC' align='center' width='80%'></img>
 
 
 
