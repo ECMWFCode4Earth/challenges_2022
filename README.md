@@ -6,10 +6,10 @@
 ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (ECMWF)](https://www.ecmwf.int/) and supported by [Copernicus](https://climate.copernicus.eu).
 <br>
 
-## Join the ESoWC 2022 Mid-Term Webinar
+## Register and join the livestream of the Final ESoWC Day
 
-* When: Wednesday, 13 July 2022 | 9:30 - 11:15 BST
-* [>> Register](https://esowc.ecmwf.int/esowc-2022-mid-term-webinar)
+* When: Wednesday, 28 September 2022 | 9:30-12:00 CEST & 13:30-15:45 CEST
+* [>> Register]([https://esowc.ecmwf.int/esowc-2022-mid-term-webinar](https://esowc.ecmwf.int/final-esowc-day-2022))
 <br>
 
 <img src='./banner_midterm_webinar.jpg' alt='ESoWC' align='center' width='80%'></img>
