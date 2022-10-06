@@ -7,7 +7,7 @@ ESoWC is organised by the [European Centre for Medium-Range Weather Forecasts (E
 
 <br>
 
-<img src='./202209_final_esowc_day_banner.png' alt='ESoWC' align='center' width='80%'></img>
+<img src='./esowc_2022_banner.png' alt='ESoWC' align='center' width='80%'></img>
 
 
 
